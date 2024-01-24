@@ -1,4 +1,4 @@
- const cssFormatted = `* {
+const cssFormatted = `* {
   box-sizing: border-box;
 }
 
