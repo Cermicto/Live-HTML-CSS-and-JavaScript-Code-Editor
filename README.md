@@ -1,4 +1,4 @@
-# Live HTML CSS and JavaScript Code Editor
+# Live HTML, CSS, and JavaScript Code Editor
 
 Runs online or offline.
 
